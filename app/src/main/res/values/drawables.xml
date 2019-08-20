@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="asus_launcher_folder_icon_bg_inner">@drawable/asus_launcher_ic_folder</item>
+    <item type="drawable" name="asus_launcher_folder_icon_bg_outer">@drawable/asus_launcher_ic_folder_outer</item>
+    <item type="drawable" name="folder_square">@drawable/asus_launcher_ic_folder</item>
+</resources>

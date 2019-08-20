@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+    <item drawable="apps_bbm" />
+    <item drawable="apps_facebook" />
+    <item drawable="apps_instagram" />
+    <item drawable="apps_line" />
+    <item drawable="apps_linkedin" />
+    <item drawable="apps_path" />
+    <item drawable="apps_skype" />
+    <item drawable="apps_telegram" />
+    <item drawable="apps_twitter" />
+    <item drawable="apps_waze" />
+    <item drawable="apps_whatsapp" />
+    <item drawable="apps_yahoomail" />
+    <item drawable="apps_zenui_dialer" />
+    <item drawable="com_android_browser_browseractivity" />
+    <item drawable="google_calendar" />
+    <item drawable="google_docs" />
+    <item drawable="google_mail" />
+    <item drawable="google_music" />
+    <item drawable="google_photos" />
+    <item drawable="google_playmovies" />
+    <item drawable="google_sheets" />
+    <item drawable="google_slides" />
+    <item drawable="google_messenger" />
+    <item drawable="google_youtube" />
+    <item drawable="system_contacts" />
+    <item drawable="system_messaging" />
+    <item drawable="system_phone" />
+</resources>
